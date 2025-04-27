@@ -64,8 +64,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone git@github.com:HuzaifaIlyas02/Bolt.git
-   cd bolt
+   git clone https://github.com/nabeelahmed44m/DocumentQA.git
 
    ```
 
@@ -94,8 +93,3 @@ To run the project locally, follow these steps:
    npm run dev
    ```
 
-## Demo Video
-
-https://github.com/HuzaifaIlyas02/Amazon-Clone/assets/86406012/b7dec3c5-07b1-4a9a-a82c-f18b94ee5b54
-
-Feel free to contribute, report issues, or suggest improvements!
